@@ -11,7 +11,7 @@ class MyInfoController extends Controller
             "slackUsername" => "Devayomi",
             "backend" => true,
             "age" => 21,
-            "bio" => "I'm Gbolagade Winner by name, i love coding so much"
+            "bio" => "I am Gbolagade Winner by name, i love coding so much"
         ]);
     }
 }
