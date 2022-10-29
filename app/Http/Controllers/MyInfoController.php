@@ -8,7 +8,7 @@ class MyInfoController extends Controller
 {
     public function myInfo(){
         return response()->json([
-            "slackUsername" => "Devayomi",
+            "slackUsername" => "Devayo",
             "backend" => true,
             "age" => 21,
             "bio" => "I am Gbolagade Winner by name, i love coding so much"
